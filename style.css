@@ -1,0 +1,43 @@
+body,.main {
+display:flex;
+flex-direction:column;
+padding:5px;
+background-color:#05031E;
+color:yellow;
+}
+
+input{
+padding:20px;
+}
+
+select{
+font-size:18px;
+padding:20px;
+
+}
+
+button{
+padding:20px;
+}
+
+h1{
+font-size:40px;
+font-family: 'Russo One', sans-serif;
+color:#F9FF33;
+align-content: space-between;
+text-align:center;
+}
+
+h4{
+font-size:25px;
+padding:10px;
+font-family: 'Russo One', sans-serif;
+color:#F5FE00;
+}
+
+img{
+margin:0 auto;
+padding:20px;
+display: block;
+}
+
